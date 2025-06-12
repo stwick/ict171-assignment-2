@@ -4,7 +4,7 @@
 **Student Name:** Stanley Musarurwa
 **Domain:** http://bmbsta.xyz  
 **Server IP:** 52.62.54.48  
-**Video Explainer:** 
+**Video Explainer:** https://drive.google.com/file/d/1hFoh-GbLbSpZsirmx6Fojt8VK1_urWJD/view?usp=sharing
 
 ## Project Description
 This project demonstrates the deployment of a WordPress website on Amazon EC2 using Infrastructure as a Service (IaaS). The server runs Ubuntu with a LAMP stack (Linux, Apache, MySQL, PHP) and is accessible via a custom domain name.
